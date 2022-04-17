@@ -1,7 +1,3 @@
-package com.jwetherell.algorithms.mathematics;
-
-import java.util.ArrayList;
-import java.util.List;
 public class Knapsack {
 
     public static final int[] zeroOneKnapsack(int[] values, int[] weights, int capacity) {
